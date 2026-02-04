@@ -111,6 +111,7 @@ Read about the development: [Building a Real-Time Monitoring Dashboard](https://
 
 - Portfolio: [soper.dev](https://soper.dev)
 - LinkedIn: [joseph-soper-dev](https://www.linkedin.com/in/joseph-soper-dev/)
+- GitHub: [@thejollydev](https://github.com/thejollydev)
 - Email: joseph@soper.dev
 
 ## 📄 License
